@@ -3,6 +3,7 @@ This is a portable version of **[Wise Force Deleter](https://www.wisecleaner.com
 
 # Link
 [Releases](https://github.com/Bluevect/WiseForceDeleterPortable/releases)
+
 [PortableApps.com Forum](https://portableapps.com/node/64466)
 
 # What is a portable app
