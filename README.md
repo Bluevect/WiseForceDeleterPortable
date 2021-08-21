@@ -1,5 +1,5 @@
 # Wise Force Deleter Portable
-This is a portable version of **[Wise Force Deleter](https://www.wisecleaner.com/wise-force-deleter.html)** in **[PortableApps.com Format](https://portableapps.com/development/portableapps.com_format)**
+This is a portable version of **[Wise Force Deleter](https://www.wisecleaner.com/wise-force-deleter.html)** in **[PortableApps.com Format](https://portableapps.com/development/portableapps.com_format)**.
 
 # Link
 [Releases](https://github.com/Bluevect/WiseForceDeleterPortable/releases)
